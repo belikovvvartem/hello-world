@@ -1,0 +1,10 @@
+body {
+    background: black;
+}
+
+h1 {
+    display: flex;
+    font-size: 100PX;
+    color: rgb(219, 245, 245);
+    justify-content: center;
+}
